@@ -1,7 +1,7 @@
 {
   "name": "app-playground",
   "version": "1.0.0",
-  "description": "A playground for GitHub Apps",
+  "description": "A playground for GitHub Apps – ✔︎",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
